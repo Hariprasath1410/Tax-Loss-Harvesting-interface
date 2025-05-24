@@ -94,9 +94,6 @@ src/
 3. Check the boxes next to assets you're considering selling to see how they would affect your tax liability.
 4. The "After Harvesting" card will update in real-time to show your new tax situation.
 
-## Screenshots
-
-## Screenshots
 
 ## Assumptions
 
